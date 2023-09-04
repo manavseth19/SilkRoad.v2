@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Silk-road v2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manavseth19/SilkRoad.v2.git"
+  },
+  "author": "bhai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manavseth19/SilkRoad.v2/issues"
+  },
+  "homepage": "https://github.com/manavseth19/SilkRoad.v2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
